@@ -1,0 +1,122 @@
+# Help
+help_ban: "Banea a un usuario."
+help_unban: "Desbanea a un usuario."
+help_bans: "Mira los usuarios baneados."
+help_cleardownloads: "Elimina todas las descargas."
+help_clearqueue: "Eliminar todos los elementos de la cola."
+help_help: "Ver esta lista."
+help_pause: "Pausa la canción que suena."
+help_resume: "Reanudar la canción pausada."
+help_play: "Igual que reanudar."
+help_queue: "Ver canciones en la cola."
+help_skip: "Salta la canción que suena."
+help_song: "Revisa la canción que suena."
+help_start: "Inicia el bot."
+help_stream: "Transmitir una radio."
+help_tts: "Say something."
+help_volume: "Verifique el volumen actual."
+help_1: "Comandos de usuario:"
+help_2: "Comandos de admin:"
+
+# Bot
+bot: "El bot se está actualizando y reiniciando..."
+
+# Start
+start_1: "Hola, envíame un enlace de YouTube para reproducirlo."
+start_2: "Buscando..."
+
+# Inline
+inline_1: "Escriba el nombre de un video de YouTube..."
+inline_2: "Duración: {0} Vistas: {1}"
+inline_3: "¡Búsqueda agotada! Inténtalo de nuevo."
+
+# Ban
+ban_1: "Dame un ID de usuario para banearlo."
+ban_2: "Listo, el bot ya no funcionará para este usuario."
+ban_3: "Error, es posible que el usuario ya esté baneado o sea un usuario sudo."
+ban_4: "Vaya, se produjo un error. Vea si me dio un ID correcto."
+ban_5: "Desbaneado, ahora ese usuario puede usar el bot."
+ban_6: "Eso no funcionó, el usuario podría no estar baneado o ser un usuario sudo."
+ban_7: "Nadie está baneado actualmente."
+ban_8: "Usuarios baneados:"
+
+# Play
+play_1: "Este (enlace) no es válido."
+play_2: "Envíame un enlace directo al video, no una lista de reproducción."
+play_3: "Descarga programada."
+
+# Player
+player_1: "Reproduciendo..."
+player_2: "Terminando de reproducir."
+
+# Playlist
+playlist_1: "No hay elementos en la lista de reproducción personalizada."
+playlist_2: "Empezando a reproducir la lista de reproducción personalizada ..."
+playlist_3: "➕ Agregar a la lista de reproducción personalizada"
+playlist_4: "Agregado a la lista de reproducción personalizada."
+playlist_5: "Este elemento ya está en la lista de reproducción personalizada."
+playlist_6: "➖ Eliminar de la lista de reproducción personalizada"
+playlist_7: "Eliminado de la lista de reproducción personalizada."
+playlist_8: "Este elemento no está en la lista de reproducción personalizada."
+playlist_9: "No se debería reproducir nada antes de reproducir la lista de reproducción personalizada."
+playlist_10: "Se borró la lista de reproducción personalizada."
+
+# Stream
+stream_1: "Dame un enlace de transmisión."
+stream_2: "Proporcionaste más de un argumento."
+stream_3: "No se puede transmitir mientras se reproduce música."
+stream_4: "Transmitiendo..."
+
+# TTS
+tts_1: "Dame un texto para hablar."
+tts_2: "Hablando..."
+tts_3: "Habló."
+
+# Skip
+skip_1: "Omitido."
+skip_2: "No hay nada que saltear."
+skip_3: "Esta canción fue omitida por un administrador."
+
+# Pause
+pause_1: "Pausada."
+pause_2: "No se puede pausar porque ya se pausó."
+pause_3: "No hay nada reproduciéndose para pausar."
+pause_4: "Resumida."
+pause_5: "No hay nada en pausa para reanudar."
+
+# Group
+group_1: "<b>Título:</b> {0}\n<b>Duración:</b> {1}\n<b>Solicitada por:</b> {2}"
+group_2: "<b>AHORA EN TRANSMISIÓN</b>\n<b>ENLACE:</b> <code>{0}</code>"
+
+# Song
+song_1: "<b>Título:</b> {0}\n<b>Duración:</b> {1}\n<b>Solicitada por:</b> {2}"
+song_2: "Actualmente no se está reproduciendo ninguna canción."
+
+
+# Not for you
+n4u: "Esto no es para ti."
+
+# Mistake
+mistake: "Supongo que fue un error."
+
+# Error
+error: "Ocurrió un error."
+
+# Volume
+volume_1: "El nivel de volumen actual es {0}"
+volume_2: "Volumen establecido en {0}"
+
+# Clear downloads
+cleardownloads: "Se eliminaron todos los archivos de su carpeta de descargas."
+
+# Queue
+queue_1: "Hay {0} elementos en la cola, aquí están los primeros 10 de ellos:"
+queue_2: "{0}. {1}, duración: {2}, solicitada por: {3}"
+queue_3: "Eliminó ese elemento de la cola."
+queue_4: "Lista de reproducción despejada."
+
+# YTDL
+ytdl_1: "Descargando..."
+ytdl_2: "Descargado y programado para reproducir en la posición {0}."
+ytdl_3: "No puedes descargar videos en vivo."
+ytdl_4: "No puede descargar videos de más de {0} minutos."
