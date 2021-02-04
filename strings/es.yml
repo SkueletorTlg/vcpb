@@ -22,7 +22,7 @@ help_2: "Comandos del administrador:"
 bot: "El bot se está actualizando y reiniciando..."
 
 # Start
-start_1: "Hola, soy el bot @VoiceChatMusic_bot, desde aquí puedes reproducir canciones en la llamada, simplemente envíame un enlace de YouTube para reproducirlo."
+start_1: "Hola, desde aquí puedes reproducir canciones en la llamada, simplemente envíame un enlace de YouTube para reproducirlo."
 start_2: "Buscando..."
 
 # Inline
@@ -73,50 +73,50 @@ tts_2: "Hablando..."
 tts_3: "Habló."
 
 # Skip
-skip_1: "Skipped."
-skip_2: "There is nothing playing to skip."
-skip_3: "This song was skipped by an admin."
+skip_1: "Saltada."
+skip_2: "No hay ninguna canción reproduciéndose para saltar."
+skip_3: "Esta canción fue saltada por un administrador."
 
 # Pause
-pause_1: "Paused."
-pause_2: "Can't pause because already paused."
-pause_3: "There is nothing playing to pause."
-pause_4: "Resumed."
-pause_5: "There is nothing paused to resume."
+pause_1: "Pausada."
+pause_2: "No se puede pausar porque ya se pausó."
+pause_3: "TNo hay nada reproduciéndose para pausar."
+pause_4: "Reanudado."
+pause_5: "No hay nada en pausa para reanudar."
 
 # Group
-group_1: "<b>Title:</b> {0}\n<b>Duration:</b> {1}\n<b>Requested by:</b> {2}"
-group_2: "<b>NOW STREAMING</b>\n<b>URL:</b> <code>{0}</code>"
+group_1: "<b>Título:</b> {0}\n<b>Duración:</b> {1}\n<b>Solicitada por:</b> {2}"
+group_2: "<b>AHORA EN STREAMING</b>\n<b>URL:</b> <code>{0}</code>"
 
 # Song
-song_1: "<b>Title:</b> {0}\n<b>Duration:</b> {1}\n<b>Requested by:</b> {2}"
-song_2: "No song is currently playing."
+song_1: "<b>Título:</b> {0}\n<b>Duración:</b> {1}\n<b>Solicitada por:</b> {2}"
+song_2: "Actualmente no se está reproduciendo ninguna canción."
 
 
 # Not for you
-n4u: "This is not for you."
+n4u: "Este comando no es para tí."
 
 # Mistake
-mistake: "I assume that was a mistake."
+mistake: "Supongo que fue un error."
 
 # Error
-error: "An error occured."
+error: "Ocurrió un error."
 
 # Volume
-volume_1: "Current volume is {0}"
-volume_2: "Volume set to {0}"
+volume_1: "El volumen actual es {0}"
+volume_2: "Volumen establecido en {0}"
 
 # Clear downloads
-cleardownloads: "Removed all files in your downloads folder."
+cleardownloads: "Eliminó todos los archivos de su carpeta de descargas."
 
 # Queue
-queue_1: "There are {0} items in the queue, here are the first 10 of them:"
-queue_2: "{0}. {1}, duration: {2}, requested by: {3}"
-queue_3: "Removed that item in the queue."
-queue_4: "Queue cleared."
+queue_1: "Existen {0} canciones en la lista, aquí están los primeros 10 de ellos:"
+queue_2: "{0}. {1}, duración: {2}, solicitada por: {3}"
+queue_3: "Canción eliminada de la lista"
+queue_4: "Lista eliminada."
 
 # YTDL
-ytdl_1: "Downloading..."
-ytdl_2: "Downloaded and scheduled to play at position {0}."
-ytdl_3: "You can't download live vidoes."
-ytdl_4: "You can't download videos longer than {0} minutes."
+ytdl_1: "Descargando..."
+ytdl_2: "Descargado y programado para reproducir en la posición {0}."
+ytdl_3: "No puedes descargar videos en vivo."
+ytdl_4: "No puede descargar videos de más de {0} minutos."
