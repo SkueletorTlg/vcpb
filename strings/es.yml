@@ -1,0 +1,122 @@
+# Help
+help_ban: "Banea a un usuario"
+help_unban: "Desbanea a un usuario."
+help_bans: "Mira los usuarios baneados."
+help_cleardownloads: "Elimina todas las descargas."
+help_clearqueue: "Eliminar todos las canciones de la lista."
+help_help: "Ver esta lista."
+help_pause: "Pausa la canción que suena."
+help_resume: "Reanudar la canción pausada."
+help_play: "Igual que reanudar."
+help_queue: "Ver canciones en la lista."
+help_skip: "Salta la canción que suena."
+help_song: "Revisa la canción que suena."
+help_start: "Inicia el bot."
+help_stream: "Transmitir una radio."
+help_tts: "Decir algo."
+help_volume: "Verifique el volumen actual."
+help_1: "Comandos del usuario:"
+help_2: "Comandos del administrador:"
+
+# Bot
+bot: "El bot se está actualizando y reiniciando..."
+
+# Start
+start_1: "Hola, soy el bot @VoiceChatMusic_bot, desde aquí puedes reproducir canciones en la llamada, simplemente envíame un enlace de YouTube para reproducirlo."
+start_2: "Buscando..."
+
+# Inline
+inline_1: "Escriba el título de un video de YouTube..."
+inline_2: "Duración: {0} Vistas: {1}"
+inline_3: "¡Búsqueda agotada! Inténtalo de nuevo."
+
+# Ban
+ban_1: "Dame el ID de algún usuario para banearlo."
+ban_2: "Hecho, el bot ya no responderá a este usuario."
+ban_3: "Eso no funcionó, es posible que el usuario ya esté baneado o sea un usuario sudo."
+ban_4: "Vaya, se produjo un error. Mira si me diste un ID correcto."
+ban_5: "Desbaneado, este usuario puede usar el bot ahora."
+ban_6: "Eso no funcionó, es posible que el usuario no esté baneado o un usuario sudo."
+ban_7: "Nadie está baneado."
+ban_8: "Usuarios baneados:"
+
+# Play
+play_1: "Este (enlace) no es válido."
+play_2: "Envíame una URL de video, no una lista de reproducción."
+play_3: "Descarga programada."
+
+# Player
+player_1: "Reproduciendo..."
+player_2: "Reproducción terminada."
+
+# Playlist
+playlist_1: "No hay elementos en la lista de reproducción personalizada."
+playlist_2: "Empezando a reproducir la lista de reproducción personalizada..."
+playlist_3: "➕ Agregar a la lista de reproducción personalizada"
+playlist_4: "Agregado a la lista de reproducción personalizada."
+playlist_5: "Este elemento ya está en la lista de reproducción personalizada."
+playlist_6: "➖ Eliminar de la lista de reproducción personalizada"
+playlist_7: "Eliminado de la lista de reproducción personalizada."
+playlist_8: "Este elemento no está en la lista de reproducción personalizada."
+playlist_9: "No se debería reproducir nada antes de reproducir la lista de reproducción personalizada."
+playlist_10: "Se borró la lista de reproducción personalizada."
+
+# Stream
+stream_1: "Dame un enlace de transmisión."
+stream_2: "Proporcionaste más que un argumento."
+stream_3: "No se puede transmitir mientras se reproduce música."
+stream_4: "Transmitiendo..."
+
+# TTS
+tts_1: "Dame un texto para hablar."
+tts_2: "Hablando..."
+tts_3: "Habló."
+
+# Skip
+skip_1: "Skipped."
+skip_2: "There is nothing playing to skip."
+skip_3: "This song was skipped by an admin."
+
+# Pause
+pause_1: "Paused."
+pause_2: "Can't pause because already paused."
+pause_3: "There is nothing playing to pause."
+pause_4: "Resumed."
+pause_5: "There is nothing paused to resume."
+
+# Group
+group_1: "<b>Title:</b> {0}\n<b>Duration:</b> {1}\n<b>Requested by:</b> {2}"
+group_2: "<b>NOW STREAMING</b>\n<b>URL:</b> <code>{0}</code>"
+
+# Song
+song_1: "<b>Title:</b> {0}\n<b>Duration:</b> {1}\n<b>Requested by:</b> {2}"
+song_2: "No song is currently playing."
+
+
+# Not for you
+n4u: "This is not for you."
+
+# Mistake
+mistake: "I assume that was a mistake."
+
+# Error
+error: "An error occured."
+
+# Volume
+volume_1: "Current volume is {0}"
+volume_2: "Volume set to {0}"
+
+# Clear downloads
+cleardownloads: "Removed all files in your downloads folder."
+
+# Queue
+queue_1: "There are {0} items in the queue, here are the first 10 of them:"
+queue_2: "{0}. {1}, duration: {2}, requested by: {3}"
+queue_3: "Removed that item in the queue."
+queue_4: "Queue cleared."
+
+# YTDL
+ytdl_1: "Downloading..."
+ytdl_2: "Downloaded and scheduled to play at position {0}."
+ytdl_3: "You can't download live vidoes."
+ytdl_4: "You can't download videos longer than {0} minutes."
